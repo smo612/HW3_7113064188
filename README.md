@@ -27,6 +27,7 @@ Also, explain how the value estimates are updated.
 ```
 
 ## 程式碼與圖表
+### code generated in `Epsilon-Greedy.ipynb`  
 
 ![Epsilon-Greedy](docs/Epsilon-Greedy.png)
 
@@ -66,6 +67,7 @@ Explain how the constant c affects exploration, and how the action selection for
 ```
 
 ## 程式碼與圖表
+### code generated in `UCB.ipynb` 
 
 ![UCB](docs/UCB.png)
 
@@ -105,6 +107,7 @@ Also, explain how different values of τ affect learning performance.
 ```
 
 ## 程式碼與圖表
+### code generated in `Softmax.ipynb` 
 
 ![Softmax](docs/Softmax.png)
 
@@ -148,6 +151,7 @@ Explain how the algorithm naturally balances exploration and exploitation throug
 ```
 
 ## 程式碼與圖表
+### code generated in `Thompson Sampling.ipynb` 
 
 ![Thompson Sampling](docs/ThompsonSampling.png)
 
