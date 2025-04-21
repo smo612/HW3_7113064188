@@ -20,7 +20,10 @@ $$
 
 ## ChatGPT Prompt 
 ```text 
-You are a reinforcement learning tutor. Please explain how the Epsilon-Greedy algorithm balances exploration and exploitation in the Multi-Armed Bandit problem. Include an explanation of how epsilon is used to choose between random action selection and choosing the action with the highest estimated value. Also, explain how the value estimates are updated.
+You are a reinforcement learning tutor.
+Please explain how the Epsilon-Greedy algorithm balances exploration and exploitation in the Multi-Armed Bandit problem.
+Include an explanation of how epsilon is used to choose between random action selection and choosing the action with the highest estimated value.
+Also, explain how the value estimates are updated.
 ```
 
 ## 程式碼與圖表
@@ -56,7 +59,10 @@ $$
 
 ## ChatGPT Prompt 
 ```text 
-You are a reinforcement learning tutor. Please explain the Upper Confidence Bound (UCB) algorithm used in the Multi-Armed Bandit problem. Describe how it balances exploration and exploitation by adjusting the confidence term based on the number of times an action has been selected. Explain how the constant c affects exploration, and how the action selection formula evolves as more steps are taken.
+You are a reinforcement learning tutor.
+Please explain the Upper Confidence Bound (UCB) algorithm used in the Multi-Armed Bandit problem.
+Describe how it balances exploration and exploitation by adjusting the confidence term based on the number of times an action has been selected.
+Explain how the constant c affects exploration, and how the action selection formula evolves as more steps are taken.
 ```
 
 ## 程式碼與圖表
@@ -92,7 +98,10 @@ $$
 
 ## ChatGPT Prompt 
 ```text 
-You are a reinforcement learning tutor. Please explain the Softmax (Boltzmann exploration) algorithm used in the Multi-Armed Bandit problem. Describe how the temperature parameter τ controls the balance between exploration and exploitation, and how the action selection probability is calculated using estimated Q values. Also, explain how different values of τ affect learning performance.
+You are a reinforcement learning tutor.
+Please explain the Softmax (Boltzmann exploration) algorithm used in the Multi-Armed Bandit problem.
+Describe how the temperature parameter τ controls the balance between exploration and exploitation, and how the action selection probability is calculated using estimated Q values.
+Also, explain how different values of τ affect learning performance.
 ```
 
 ## 程式碼與圖表
@@ -132,7 +141,10 @@ $$
 
 ## ChatGPT Prompt 
 ```text 
-You are a reinforcement learning tutor. Please explain the Thompson Sampling algorithm used in the Multi-Armed Bandit problem. Describe how the algorithm maintains a posterior distribution for each action and selects actions by sampling from these distributions. Explain how the algorithm naturally balances exploration and exploitation through probabilistic sampling, and how it updates its belief using reward feedback.
+You are a reinforcement learning tutor.
+Please explain the Thompson Sampling algorithm used in the Multi-Armed Bandit problem.
+Describe how the algorithm maintains a posterior distribution for each action and selects actions by sampling from these distributions.
+Explain how the algorithm naturally balances exploration and exploitation through probabilistic sampling, and how it updates its belief using reward feedback.
 ```
 
 ## 程式碼與圖表
